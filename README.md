@@ -1,6 +1,6 @@
 # Fake-or-Real-News-Detection
 
-![news](https://ichef.bbci.co.uk/news/976/cpsprodpb/14CCB/production/_95159158_fakenews.jpg)
+![news](https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/720/1x/cbbc/I-Newspaper2.jpg)
 
 In this modern world, all kind of informations spread very fast, and for us it's very easy to get any kind of informations. The problem is, is it real or fake information we got?
 
